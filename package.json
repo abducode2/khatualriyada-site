@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://abducode2.github.io/khatualriyada-site-react",
+  "homepage": "https://abducode2.github.io/khatualriyada-site",
   "eslintConfig": {
     "extends": [
       "react-app"
