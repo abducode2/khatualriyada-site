@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/khatualriyada-site-react/static/css/main.a23b65fb.css",
+    "main.js": "/khatualriyada-site-react/static/js/main.972441eb.js",
+    "static/media/Namir logo_2.png": "/khatualriyada-site-react/static/media/Namir logo_2.0de6789e28e690976526.png",
+    "static/media/Namir logo-12.png": "/khatualriyada-site-react/static/media/Namir logo-12.abfb2c650d54ea8f62aa.png",
+    "static/media/Namir logo-11.png": "/khatualriyada-site-react/static/media/Namir logo-11.7f12a00c5180f75dd187.png",
+    "index.html": "/khatualriyada-site-react/index.html",
+    "main.a23b65fb.css.map": "/khatualriyada-site-react/static/css/main.a23b65fb.css.map",
+    "main.972441eb.js.map": "/khatualriyada-site-react/static/js/main.972441eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23b65fb.css",
+    "static/js/main.972441eb.js"
+  ]
+}
