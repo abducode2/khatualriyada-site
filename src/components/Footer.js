@@ -1,12 +1,11 @@
 // src/components/Footer.js
 import { useState } from "react";
 import "./Footer.css";
-import { useTheme } from "../contexts/ThemeContext";
 
 const Footer = () => {
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
-  const { } = useTheme();
+
 
   const handleLinkClick = (e, id) => {
     e.preventDefault();
