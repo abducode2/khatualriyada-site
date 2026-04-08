@@ -1,15 +1,12 @@
 // src/components/Footer.js
 import { useState } from "react";
-import logo from "../assets/Namir logo_2.png";
-import lightLogo from "../assets/Namir logo-12.png";
-import darkLogo from "../assets/Namir logo-11.png";
 import "./Footer.css";
 import { useTheme } from "../contexts/ThemeContext";
 
 const Footer = () => {
   const [email, setEmail] = useState("");
   const [subscribed, setSubscribed] = useState(false);
-  const { darkMode } = useTheme();
+  const { } = useTheme();
 
   const handleLinkClick = (e, id) => {
     e.preventDefault();

@@ -120,8 +120,6 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useTheme } from "../contexts/ThemeContext";
 import "./Header.css";
-import lightLogo from "../assets/Namir logo-12.png";
-import darkLogo from "../assets/Namir logo-11.png";
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const { darkMode, toggleDarkMode } = useTheme();
